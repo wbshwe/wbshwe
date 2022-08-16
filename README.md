@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shweta
 - 👀 I’m interested in curating stories through data intel.
-- 🌱 I’m currently learning Python and exploring new ways to analyze data and create visualization.
+- 🌱 I’m currently learning Python and exploring new ways to analyze data and create visualizations.
 
 
 <!---
